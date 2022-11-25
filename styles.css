@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-#main {
+.holder {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -9,7 +9,7 @@
     row-gap: 15px;
 }
 
-#main div {
+.box {
     min-width: 150px;
     border: 2px solid black;
 }
